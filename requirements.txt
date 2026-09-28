@@ -1,0 +1,10 @@
+customtkinter>=5.2.0
+cryptography>=41.0.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+requests>=2.31.0
+jieba>=0.42.1
+rank-bm25>=0.2.2
+Pillow>=10.0.0
+torch>=2.5.0
+transformers>=4.40.0
