@@ -16,15 +16,9 @@
 
 ## 📸 界面预览
 
-> 截图位（后续补充）
-
-![主界面](screenshot.png)
-
-> 更多截图
-
-![聊天窗口](screenshot1.png)
-
-![关于页面](screenshot2.png)
+> ![screenshot](screenshot-muljqrbfuksw.png)
+>
+> ![screenshot1](screenshot1-muljqznxetpj.png)![screenshot2](screenshot2-muljr5919trj.png)![screenshot3](screenshot3-muljr7pnzofc.png)
 
 ---
 
