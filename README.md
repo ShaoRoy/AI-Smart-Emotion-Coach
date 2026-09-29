@@ -255,8 +255,8 @@ PyInstaller 打包的 exe 容易被误报。请添加信任，或临时关闭杀
 ├── themes/                   主题文件
 ├── stage_data.json           阶段数据
 ├── quick_phrases.json        快捷短语
-├── wechat.png                微信收款码
-├── alipay.png                支付宝收款码
+├── wechat.png                
+├── alipay.png                
 └── _internal/                运行依赖
 ```
 
