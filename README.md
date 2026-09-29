@@ -17,10 +17,9 @@
 ---
 
 ## 📸 界面预览
-<img width="1193" height="858" alt="screenshot" src="https://github.com/user-attachments/assets/cc99d51a-a9c9-4f78-a7bf-b63a39223492" />
-<img width="1573" height="840" alt="screenshot1" src="https://github.com/user-attachments/assets/af02f152-8e0b-428c-91bf-e9a72c0c271d" />
-<img width="502" height="552" alt="screenshot2" src="https://github.com/user-attachments/assets/0ba287ef-03bb-41bc-85d8-361a39b40fc9" />
-<img width="2048" height="2048" alt="screenshot3" src="https://github.com/user-attachments/assets/c4ce1c48-6e6a-4ff7-a83a-00dbeb166a69" />
+<img width="1193" height="850" alt="screenshot" src="https://github.com/user-attachments/assets/cc99d51a-a9c9-4f78-a7bf-b63a39223492" />
+<img width="1573" height="850" alt="screenshot1" src="https://github.com/user-attachments/assets/af02f152-8e0b-428c-91bf-e9a72c0c271d" />
+<img width="1024" height="1024" alt="screenshot3" src="https://github.com/user-attachments/assets/c4ce1c48-6e6a-4ff7-a83a-00dbeb166a69" />
 
 ---
 
