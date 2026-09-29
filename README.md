@@ -19,7 +19,7 @@
 ## 📸 界面预览
 <img width="1193" height="850" alt="screenshot" src="https://github.com/user-attachments/assets/cc99d51a-a9c9-4f78-a7bf-b63a39223492" />
 <img width="1573" height="850" alt="screenshot1" src="https://github.com/user-attachments/assets/af02f152-8e0b-428c-91bf-e9a72c0c271d" />
-<img width="1024" height="1024" alt="screenshot3" src="https://github.com/user-attachments/assets/c4ce1c48-6e6a-4ff7-a83a-00dbeb166a69" />
+<img width="500" height="500" alt="screenshot3" src="https://github.com/user-attachments/assets/c4ce1c48-6e6a-4ff7-a83a-00dbeb166a69" />
 
 ---
 
